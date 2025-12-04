@@ -19,6 +19,7 @@
   "homepage": "https://github.com/clarapascual91/Proyecto-Buscador-Hoteles#readme",
   "dependencies": {
     "express": "^5.2.1",
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "readline-sync": "^1.4.10"
   }
 }
